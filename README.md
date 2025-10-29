@@ -1,3 +1,4 @@
+<img width="1920" height="1200" alt="Screenshot 2025-10-29 135344" src="https://github.com/user-attachments/assets/cb18d719-9c53-47f6-8e46-65329a13cb76" />
 # BlockQuoteBlockQuote Smart Contract: QuoteStorage
 
 This repository contains the Solidity smart contract for BlockQuote, a simple, decentralized application designed to permanently store inspirational or famous quotes on the Ethereum blockchain. This contract serves as a foundational example for beginners learning about state management, structs, and arrays in Solidity.
@@ -98,7 +99,8 @@ public view
 
 Returns the address of the contract owner.
 
-💡 Events
+💡 Events<img width="1920" height="1200" alt="Screenshot 2025-10-29 135344" src="https://github.com/user-attachments/assets/69399b45-4306-4de9-bb71-fa510678fcf2" />
+
 
 Events are crucial for DApp frontends to track changes efficiently.
 
