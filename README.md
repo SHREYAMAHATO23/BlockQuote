@@ -99,7 +99,6 @@ public view
 
 Returns the address of the contract owner.
 
-💡 Events<img width="1920" height="1200" alt="Screenshot 2025-10-29 135344" src="https://github.com/user-attachments/assets/69399b45-4306-4de9-bb71-fa510678fcf2" />
 
 
 Events are crucial for DApp frontends to track changes efficiently.
