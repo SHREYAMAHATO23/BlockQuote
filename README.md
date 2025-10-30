@@ -44,8 +44,10 @@ The contract serves as both a practical tool for quote storage and an educationa
 
 ### Technical Specifications
 - **Solidity Version**: ^0.8.0
+- **Framework**: Remix/Hardhat compatible
 - **License**: MIT
-- **Network**: Ethereum Mainnet & Compatible Testnets
+- **Network**: Celo Sepolia Testnets
+- **ContactAddress**: 
 
 ### Data Structures
 
