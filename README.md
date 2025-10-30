@@ -47,7 +47,7 @@ The contract serves as both a practical tool for quote storage and an educationa
 - **Framework**: Remix/Hardhat compatible
 - **License**: MIT
 - **Network**: Celo Sepolia Testnets
-- **ContactAddress**: 
+- **ContactAddress**: [view on Blockscout]
 
 ### Data Structures
 
