@@ -1,10 +1,13 @@
 <img width="1920" height="1200" alt="Screenshot 2025-10-29 135344" src="https://github.com/user-attachments/assets/cb18d719-9c53-47f6-8e46-65329a13cb76" />
 https://celo-sepolia.blockscout.com/tx/0xe838370417e86d3ec8b9cb7ec72d334aae1657a3ebea20d02ec0cff0ef7241c6
+
+
 # BlockQuoteBlockQuote Smart Contract: QuoteStorage
 
 This repository contains the Solidity smart contract for BlockQuote, a simple, decentralized application designed to permanently store inspirational or famous quotes on the Ethereum blockchain. This contract serves as a foundational example for beginners learning about state management, structs, and arrays in Solidity.
 
 📄 Contract Overview
+[View My Contract](contract)
 
 File: QuoteStorage.sol
 
